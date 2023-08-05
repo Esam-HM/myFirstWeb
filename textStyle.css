@@ -1,0 +1,199 @@
+p{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.video-title{
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+}
+#dot{
+    color: rgb(96, 96, 96);
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+#ff{
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+#video-dsc{
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    width: 280px;
+    line-height: 22px;
+    margin-bottom: 100px;
+}
+#box{
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    text-align: center;
+    margin-top: 100px;
+}
+#shop-link{
+    cursor: pointer;
+}
+#shop-link:hover{
+    text-decoration: underline;
+}
+.e1{
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 30px;
+}
+.fontOfText{
+    font-family: Verdana;
+}
+.e2a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+.e2b{
+    color:gray;
+    margin-top: 4px;
+    margin-bottom: 25px;
+}
+.e2c{
+    width: 280px;
+    font-size: 15px;
+}
+.course-button{
+    font-family: Verdana;
+    font-size: 12px;
+    color: white;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 4px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 14px;
+    padding-right: 14px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+.course-button:hover{
+    opacity: 0.8;
+    transition: opacity 0.2s;
+    box-shadow: 10px 10px 10px rgba(80, 74, 74, 0.911);
+}
+.course-button:active{
+    background-color: blue;
+    transition: background-color 0.15s;
+}
+#e3a{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 4px;
+}
+#e3b{
+    margin-top: 4px;
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#e4a{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 13px;
+    text-align: center;
+}
+#e4b{
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 13px;
+}
+#e4c{
+    font-size: 13px;
+    text-align: center;
+    color: blue;
+}
+#e4c:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.e5{
+    text-align: center;
+    margin-bottom: 4px;
+    margin-top: 4px;
+}
+#new-word{
+    font-size: 12px;
+    color: red;
+}
+#mac{
+    font-size: 18px;
+    font-weight: bold;
+}
+#pros{
+    font-size: 33px;
+    font-weight: bold;
+}
+#fiyat{
+    font-size: 13px;
+    color: gray;
+    margin-bottom: 15px;
+}
+#buy-button{
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    border-width: 0px;
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 15px;
+}
+#buy-button:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+#buy-button:active{
+    opacity: 0.4;
+}
+.e6a{
+    font-size: 30px;
+    margin-right: 10px;
+}
+.e6b{
+    color: rgb(82, 81, 81);
+    font-size: 15px;
+}
+.e6c{
+    color: rgb(8, 165, 8);
+    font-size: 15px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+.e6d{
+    font-size: 15px;
+    margin-top: 6px;
+}
+.e6d1{
+    color: rgb(82, 81, 81);
+}
+.e6d2{
+    color: red;
+}
+.e7a{
+    font-weight: bold;
+}
+.e7b{
+    color: gray;
+}
+.e7b2{
+    margin-top: 5px;
+    margin-bottom: 15px;
+    line-height: 25px;
+    width: 500px;
+}
+.e7c{
+    color: rgb(0, 162, 255);
+}
